@@ -5,11 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=shaon6009&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaon6009" alt="Trophy" />
-  </a> 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shaon6009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 <img align="right" height="150" src="https://raw.githubusercontent.com/shaon6009/shaon6009/refs/heads/main/giphy.webp"  />
@@ -30,18 +27,14 @@ A **Software Engineering** student diving into **Machine Learning**, **Deep Lear
 
 <hr>
 
-#### 🔥 **GitHub Stats & Achievements:**
+### 🔥 **GitHub Stats & Achievements:**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&count_private=true&hide_border=true&theme=radical&locale=en" alt="GitHub Stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=radical&hide_border=true" alt="GitHub Streak" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaon6009&layout=compact&langs_count=5&hide_border=true&theme=radical" alt="Most Used Languages" width="350" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=shaon6009&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaon6009&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <!-- Ensure the URL points to an accessible file -->
-  <img src="https://raw.githubusercontent.com/shaon6009/shaon6009/main/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📫 Reach Out:
 - 📧 **Email:** [shaonrakibul0@gmail.com](mailto:shaonrakibul0@gmail.com)
@@ -68,5 +61,3 @@ I’m probably funnier than you think 😄.
 **Let’s grow, innovate, and change the world with AI!** 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/shaon6009/shaon6009/output/snake.svg" alt="Snake animation" />
