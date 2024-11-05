@@ -61,3 +61,4 @@ I’m probably funnier than you think 😄.
 **Let’s grow, innovate, and change the world with AI!** 
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/shaon6009/shaon6009/output/snake.svg" alt="Snake animation" />
