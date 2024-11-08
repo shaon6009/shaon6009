@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm MD Rakibul Hasan Shoan</h1>
+<h1 align="center">👋 Hey, Myself Rakibul Hasan Shoan</h1>
 <h3 align="center">🎓 Software Engineering Student | 🤖 Aspiring ML Engineer | 🌟 Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI!</h3>
 
 <p align="center"> 
@@ -28,9 +28,8 @@ A **Software Engineering** student diving into **Machine Learning**, **Deep Lear
 
 ### 🔥 **GitHub Stats & Achievements:**
 
-![](https://github-readme-stats.vercel.app/api?username=shaon6009&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaon6009&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=shaon6009&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shaon6009&theme=onedark&hide_border=true&layout=compact&count_private=true)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -52,7 +51,6 @@ Let's connect, collaborate, and innovate!
 
 ### ⚡ Fun Fact:
 I’m probably funnier than you think 😄.
-
 ---
 **Let’s grow, innovate, and change the world with AI!** 
 <br clear="both">
