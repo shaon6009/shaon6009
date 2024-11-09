@@ -18,13 +18,13 @@ A **Software Engineering** student diving into **Machine Learning**, **Deep Lear
 - 💼 **Open to Collaboration:** Let's build **AI** and **ML** projects together.
 - 🆘 **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
 
-### 🔥 **GitHub Stats & Achievements:**
+### 🔥 **GitHub Stats 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=shaon6009&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=shaon6009&theme=algolia&hide_border=true&layout=compact&count_private=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaon6009&theme=algolia&hide_border=true&layout=compact&count_private=true)
 <!-- Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=algolia&border_radius=20&" alt="shaon6009" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=algolia&hide_border=true&border_radius=10" alt="shaon6009" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -38,7 +38,6 @@ A **Software Engineering** student diving into **Machine Learning**, **Deep Lear
 - 📸 **Instagram:** [@rakibul_hasan_sha0n](https://instagram.com/rakibul_hasan_sha0n)
 - 📊 **Kaggle:** [rakibulhasanshaon69](https://kaggle.com/rakibulhasanshaon69)
 - 📘 **Facebook:** [MD Rakibul Hasan Shoan](https://fb.com/hasan.shaon.545)
-Let's connect, collaborate, and innovate!
 <hr>
 
 ### 🛠️ Technologies I Use:
