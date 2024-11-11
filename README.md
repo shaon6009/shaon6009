@@ -8,7 +8,7 @@
 <hr>
 <img align="right" height="150" src="https://raw.githubusercontent.com/shaon6009/shaon6009/refs/heads/main/giphy.webp"  />
 🚀 About Me:
-A **Software Engineering** student diving into **Machine Learning**, **Deep Learning**, and **Generative AI**. Passionate about creating real-world solutions using **TensorFlow**, **PyTorch**, and **Hugging Face**.
+A **Software Engineering** student diving into **Machine Learning**, **Deep Learning**, and **Generative AI**. Passionate about creating real-world solutions.
 
 ### 💡 Currently Working On:
 - 🌱 **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
