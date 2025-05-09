@@ -15,7 +15,7 @@ A lively, fun-loving AI enthusiast driven by a passion for coding and discovery.
 - 🔭 **Projects:** Building AI-driven apps, **image classification**, **text generation**. [Explore on GitHub](https://github.com/shaon6009).
 
 ### 🤝 Let’s Collaborate:
-- 💼 **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real worls problem solving.
+- 💼 **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
 - 🆘 **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
 
 ### 🔥 **GitHub Stats**
