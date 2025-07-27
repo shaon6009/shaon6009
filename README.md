@@ -53,7 +53,7 @@ alt="shaon6009" onerror="this.onerror=null; this.src='https://path-to-your-backu
 <!--<h2 style="color: #44AEFB">📊 Deepinsight</h2>
 <img src="https://github.com/shaon6009/shaon6009/blob/main/decoding_error.gif" alt="stats_banner" width="750" /> -->
 
-### ⚡ Fun Fact: I’m probably funnier than you think 😄.
+<!--### ⚡ Fun Fact: I’m probably funnier than you think 😄.
 --- 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/shaon6009/shaon6009/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/shaon6009/shaon6009/output/snake.svg" alt="Snake animation" /> -->
