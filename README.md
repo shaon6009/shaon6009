@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, Myself Rakibul Hasan Shoan</h1>
+<h1 align="center"> Hey, Myself Rakibul Hasan Shoan</h1>
 <h3 align="center">🎓 Software Engineering Student | 🤖 Aspiring ML Engineer | 🌟 Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI!</h3>
 
 <p align="center"> 
