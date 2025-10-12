@@ -34,8 +34,8 @@ alt="shaon6009" onerror="this.onerror=null; this.src='https://path-to-your-backu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaon6009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- <p>## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shaon6009&theme=radical&no-frame=false&no-bg=true&margin-w=4) </p> -->
 
 ### 📫 Reach Out:
 - 📧 **Email:** [shaonrakibul0@gmail.com](mailto:shaonrakibul0@gmail.com)
