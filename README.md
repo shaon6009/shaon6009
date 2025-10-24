@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Myself Rakibul Hasan Shoan</h1>
-<h3 align="center">🎓 Software Engineering Student | 🤖 Aspiring ML Engineer | 🌟 Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI!</h3>
+<h3 align="center"> Software Engineering Student |  Aspiring ML Engineer |  Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI!</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shaon6009&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,14 +11,14 @@
 A lively, fun-loving AI enthusiast driven by a passion for coding and discovery. My journey into AI sparked with J.A.R.V.I.S. (Just A Rather Very Intelligent System) from Iron Man, and I've been hooked ever since! I love exploring how tech can solve real-world problems, and I'm always excited to learn something new along the way...
 
 ###  Currently Working On:
-- 🌱 **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
-- 😒 **Projects:** Building AI-driven apps, **image classification**, **text generation**. [Explore on GitHub](https://github.com/shaon6009).
+-  **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
+-  **Projects:** Building AI-driven apps, **image classification**, **text generation**. [Explore on GitHub](https://github.com/shaon6009).
 
 ### 🤝 Let’s Collaborate:
-- 💼 **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
-- 🆘 **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
+-  **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
+-  **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
 
-### 🔥 **GitHub Stats**
+###  **GitHub Stats**
 
 <div align="center">
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="shaon6009" /></p>
