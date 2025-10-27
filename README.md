@@ -14,7 +14,7 @@ A lively, fun-loving AI enthusiast driven by a passion for coding and discovery.
 -  **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
 -  **Projects:** Building AI-driven apps, **image classification**, **text generation**. [Explore on GitHub](https://github.com/shaon6009).
 
-### 🤝 Let’s Collaborate:
+###  Let’s Collaborate:
 -  **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
 -  **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
 
