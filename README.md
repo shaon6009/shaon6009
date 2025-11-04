@@ -1,4 +1,4 @@
-<h1 align="center"> What's Up, Myself Rakibul Hasan Shoan</h1>
+<h1 align="center"> What's Up!! Myself Rakibul Hasan Shoan</h1>
 <h3 align="center"> Software Engineering Student |  Aspiring AI Engineer | Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI! Also interested in Data Analysis and Business Analysis</h3>
 
 <p align="center"> 
