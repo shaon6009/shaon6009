@@ -1,5 +1,5 @@
-<h1 align="center"> Hey, Myself Rakibul Hasan Shoan</h1>
-<h3 align="center"> Software Engineering Student |  Aspiring ML Engineer |  Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI!</h3>
+<h1 align="center"> What's Up, Myself Rakibul Hasan Shoan</h1>
+<h3 align="center"> Software Engineering Student |  Aspiring AI Engineer | Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI! Also interested in Data Analysis and Business Analysis</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shaon6009&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
