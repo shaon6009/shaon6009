@@ -18,7 +18,7 @@ A lively, fun-loving AI enthusiast driven by a passion for coding and discovery.
 -  **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
 -  **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
 
-###  **GitHub Stats**
+<!-- ###  **GitHub Stats**
 
 <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="shaon6009" /></p>
@@ -31,7 +31,7 @@ alt="shaon6009" onerror="this.onerror=null; this.src='https://path-to-your-backu
 </div>
 
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- <p>## 🏆 GitHub Trophies
