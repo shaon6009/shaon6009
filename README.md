@@ -21,18 +21,18 @@ A lively, fun-loving AI enthusiast driven by a passion for coding and discovery.
 ###  **GitHub Stats**
 
 <div align="center">
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="shaon6009" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon6009&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="shaon6009" /></p>
 <p>
   <img align="center" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=shaon6009&theme=algolia&hide_border=true&border_radius=20"
 alt="shaon6009" onerror="this.onerror=null; this.src='https://path-to-your-backup-image';" />
-</p> -->
+</p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaon6009&theme=algolia&hide_border=true&layout=compact&border_radius=20&count_private=true" alt="shaon6009" /></p>
 </div>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=shaon6009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- <p>## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shaon6009&theme=radical&no-frame=false&no-bg=true&margin-w=4) </p> -->
