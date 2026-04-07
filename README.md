@@ -1,6 +1,6 @@
 <h1 align="center"> What's Up!! Myself Rakibul Hasan Shoan</h1>
 <h3 align="center">
-Software Engineering Student | Focused on Business Intelligence & Data Analysis | Aspiring AI Engineer | Passionate about Deep Learning, LLMs & Generative AI
+Software Engineering Student | Focused on Business Intelligence & Data Analysis | Aspiring AI Engineer | Passionate about Problem Solving, Finding Data Driven Solution, Deep Learning, LLMs & Generative AI
 </h3>
 
 <p align="center"> 
