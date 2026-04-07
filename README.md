@@ -1,5 +1,7 @@
 <h1 align="center"> What's Up!! Myself Rakibul Hasan Shoan</h1>
-<h3 align="center"> Software Engineering Student |  Aspiring AI Engineer | Fascinated by the Frontiers of Deep Learning, LLMs, and Generative AI! Also interested in Data Analysis and Business Analysis</h3>
+<h3 align="center">
+Software Engineering Student | Focused on Business Intelligence & Data Analysis | Aspiring AI Engineer | Passionate about Deep Learning, LLMs & Generative AI
+</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shaon6009&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,7 +10,9 @@
 <hr>
 <img align="right" height="150" src="https://raw.githubusercontent.com/shaon6009/shaon6009/refs/heads/main/giphy.webp"  />
   About Me:
-A lively, fun-loving AI enthusiast driven by a passion for coding and discovery. My journey into AI sparked with J.A.R.V.I.S. (Just A Rather Very Intelligent System) from Iron Man, and I've been hooked ever since! I love exploring how tech can solve real-world problems, and I'm always excited to learn something new along the way...
+A passionate problem solver with a strong love for working with data and uncovering meaningful insights. I am deeply interested in Business Intelligence and Data Analysis, where I enjoy transforming raw data into clear, actionable strategies that drive better decision-making. My curiosity pushes me to continuously explore patterns, trends, and data-driven solutions to real-world challenges.
+
+Inspired by J.A.R.V.I.S. (Just A Rather Very Intelligent System) from Iron Man, my journey into technology and AI began with a fascination for intelligent systems. Today, I am focused on building a strong foundation in data and analytics while steadily progressing toward my goal of becoming an AI Engineer. I am always eager to learn, experiment, and create innovative solutions that combine data, intelligence, and real-world impact.
 
 <!-- ###  Currently Working On:
 -  **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
