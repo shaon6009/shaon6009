@@ -17,10 +17,6 @@ Inspired by J.A.R.V.I.S. (Just A Rather Very Intelligent System) from Iron Man, 
 -  **Learning:** LLMs, NLP, Generative AI, Transformers, Deep Learning
 -  **Projects:** Building AI-driven apps, **image classification**, **text generation**. [Explore on GitHub](https://github.com/shaon6009). -->
 
-###  Let’s Collaborate:
--  **Open to Collaboration:** Let's build **AI** and **ML** projects together or any kind of real world problem solving using technology.
--  **Seeking Guidance:** Advanced **Transformers**, **LLMs** tuning.
-
 <!-- ###  **GitHub Stats**
 
 <div align="center">
