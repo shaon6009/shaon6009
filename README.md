@@ -9,7 +9,6 @@ Software Engineering Student | Focused on Business Intelligence & Data Analysis 
 
 <hr>
 <img align="right" height="150" src="https://raw.githubusercontent.com/shaon6009/shaon6009/refs/heads/main/giphy.webp"  />
-  About Me:
 A passionate problem solver with a strong love for working with data and uncovering meaningful insights. I am deeply interested in Business Intelligence and Data Analysis, where I enjoy transforming raw data into clear, actionable strategies that drive better decision-making. My curiosity pushes me to continuously explore patterns, trends, and data-driven solutions to real-world challenges.
 
 Inspired by J.A.R.V.I.S. (Just A Rather Very Intelligent System) from Iron Man, my journey into technology and AI began with a fascination for intelligent systems. Today, I am focused on building a strong foundation in data and analytics while steadily progressing toward my goal of becoming an AI Engineer. I am always eager to learn, experiment, and create innovative solutions that combine data, intelligence, and real-world impact.
